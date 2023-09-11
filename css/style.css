@@ -13,6 +13,9 @@ header{
 }
 
 /*BODY*/
+body {
+    font-family: Verdana, sans-serif;
+  }
 
 .writtenby{
     color: gray;
