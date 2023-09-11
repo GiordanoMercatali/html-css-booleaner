@@ -1,5 +1,11 @@
 header{
+    width: 100%;
+    background-image: url("../img/pattern.png");
     background-color: #4ea0ff;
-    background-image: url("img\pattern.png");
+    background-size: contain;
     background-repeat: repeat;
+}
+
+#booleaner-image{
+    width: 20%;
 }
