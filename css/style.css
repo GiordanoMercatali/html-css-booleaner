@@ -1,6 +1,5 @@
 /*HEADER*/
 header{
-    width: 100%;
     background-image: url("../img/pattern.png");
     background-color: #4ea0ff;
     background-size: contain;
@@ -26,4 +25,8 @@ header{
 
 .photo-description{
     font-size: 11px;
+}
+
+.highlight{
+    background-color: yellow;
 }
