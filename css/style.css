@@ -1,3 +1,4 @@
+/*HEADER*/
 header{
     width: 100%;
     background-image: url("../img/pattern.png");
@@ -8,4 +9,21 @@ header{
 
 #booleaner-image{
     width: 20%;
+}
+
+/*BODY*/
+.writtenby{
+    color: gray;
+}
+
+.writtenby p{
+    font-size: 11px;
+}
+
+#author{
+    color: #4ea0ff;
+}
+
+.photo-description{
+    font-size: 11px;
 }
